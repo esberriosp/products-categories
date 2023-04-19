@@ -1,0 +1,615 @@
+Categorías:
+
+1 Accesorios
+2 Alimentación especial
+3 Alimentación fortificada
+4 Nutrición Adulto
+5 Nutrición Infantil
+6 Proteinas
+7 Vitaminas y Minerales
+
+
+------------------------------------------
+
+Productos
+1 Accesorios
+
+"id", 1
+"name", Muñequera con velcro
+"brand", SPORTLAB GEAR
+"price", 19990
+"description", Muñequera, palma acolchada para un agarre fuerte y mayor comodidad, soporte en los dedos y muñeca
+"stock", 100
+"image", 001Producto1Gategoria1
+"category",1
+
+"id", 2
+"name", Muñequera Crossfit
+"brand", BLUNDING
+"price", 9990
+"description", Muñequera con fijación y estabilización de la articulación. Su uso correcto previene lesiones.
+"stock", 100
+"image", 002Producto2Gategoria1
+"category",1
+
+"id", 3
+"name", Sport Bag Kit All (bolso pequeño + shaker 600 cc)
+"brand", ALL NUTRITION
+"price", 29990
+"description", Kit deportivo que incluye bolso y botella de plástico reforzado de 600cc
+"stock", 100
+"image", 003Producto3Categoria1
+"category",1
+
+"id", 4
+"name", Botella All (500 cc) Rosada
+"brand", ALL NUTRITION
+"price", 8990
+"description", Botella térmica, útil para líquidos fríos y calientes. Capacidad de 500cc y cierre hermético
+"stock", 100
+"image", 004Producto4Categoria1
+"category",1
+
+"id", 5
+"name", Pesa Bluetooth Scale 3
+"brand", Huawei
+"price", 35990
+"description", Medición precisa, el sensor incorporado de alta precisión puede percibir con precisión cambios de 100 g. 
+"stock", 100
+"image", 005Producto5Categoria1
+"category",1
+
+"id", 6
+"name", Yoga Mat Double Color Celeste Azul 6mm
+"brand", BLU FIT
+"price", 19990
+"description", Este mat es reversible con doble todo, tiene una textura antideslizante que es suave y confortable para tus entrenamientos. Es fácil de enrollar y transportar.
+"stock", 100
+"image", 006Peoducto6Categoria1
+"category",1
+
+"id", 7
+"name", Pro Banda Extra Fuerte
+"brand", BLU FIT
+"price", 29990
+"description", Las Bandas Pro brindan todos los beneficios de la resistencia: aumento de fuerza, la flexibilidad y resistencia, en un tamaño portátil. Úsalos para calentar los músculos y las articulaciones, así como para entrenamientos de fuerza y agilidad del tren superior e inferior del cuerpo
+"stock", 100
+"image", 007Producto7Categoria1
+"category",1
+
+"id", 8
+"name", Mancuerna Neopreno Azul 2 kg
+"brand", BODY SCULPTURE
+"price", 7990
+"description", Mancuerna pequeña, ideal para entrenamientos de fuerza. Su exterior de neopreno proporciona un agarre seguro
+"stock", 100
+"image", 008Producto8Categoria1
+"category",1
+
+"id", 9
+"name", Liga Resistencia Media
+"brand", BLU FIT
+"price", 6990
+"description", La liga de resistencia Media de Blu Fit es ideal para utilizar en casa o simplemente para transportarla a donde entrenes. Además es fácil de limpiar y tiene múltiples resistencias para ajustarla a lo que necesites
+"stock", 100
+"image", 009Producto9Categoria1
+"category",1
+
+
+-----------------
+
+2 Alimentación especial
+"id", 10
+"name", Proteina de cañamo en polvo organica 200g
+"brand", NUTRANABIS
+"price", 10690
+"description", Proteína de cáñamo (50%) orgánica en polvo. Sin Lactosa, soya, colesterol, Grasas trans, sodio, gluten, alérgenos, preservantes ni saborizantes.
+"stock", 100
+"image", 010Producto1Categoria2
+"category",2
+
+"id", 11
+"name", Chocolate amargo Cañamo barra 80g
+"brand", SABORES SIN CULPA
+"price", 3490
+"description", Chocolate 70% cacao sin azúcar (Masa de cacao, maltitol, manteca de cacao, lecitina de soya, vanilla), nuez de cañamo (20%). Libre de Gluten - Sin Azúcar - Buena fuente de Fibra
+"stock", 100
+"image", 011Producto2Categoria2
+"category",2
+
+"id", 12
+"name", Aloe Vera puro 500ml
+"brand", DEL ALBA
+"price", 8190
+"description", Es un suplemento alimentario que ayuda a mantener una buena salud intestinal. La porción diaria recomendada es de 50 cc, que equivalen a ¼ de taza.
+"stock", 100
+"image", 012Producto3Categoria2
+"category",2
+
+"id", 13
+"name", Pasta de Chia Elbows 227g
+"brand", SOW
+"price", 2290
+"description", ¿Te gustan las pastas? La nuestra es la primera elaborada con harina de chía. Tiene un alto contenido de proteínas, omega-3 y fibra de alta calidad, que ayuda al proceso digestivo. 
+"stock", 100
+"image", 013Producto4Categoria2
+"category",2
+
+"id", 14
+"name", Stevia líquida 150ml
+"brand", DEL ALBA
+"price", 8350
+"description", Edulcorante de mesa líquido, con base en estevia, ideal para endulzar todo tipo de bebidas o preparaciones. Es un producto vegano, libre de gluten y naturalmente libre de sodio.
+"stock", 100
+"image", 014Producto5Categoria2
+"category",2
+
+"id", 15
+"name", Ghee 450ml Libre de lactosa y caseina
+"brand", MANTEGHEE
+"price", 13440
+"description", La mantequilla clarificada es un producto artesanal y 100% natural. La puedes usar en reemplazo de la mantequilla para untar saltear y cocinar. Manteghee es libre de gluten, lactosa y caseína. Además, es libre de sodio.
+"stock", 100
+"image", 015Producto6Categoria2
+"category",2
+
+"id", 16
+"name", Crema vegetal de Almedra Sin azucar Organica 200 ML
+"brand", ECOMIL
+"price", 2500
+"description", Crema de Almendra orgánica para cocinar, alternativa de las cremas de orígen animal. No se corta al cocinar. Se puede combinar y mezclar con ingredientes ácidos (limón, vino, mostaza....)
+"stock", 100
+"image", 016Producto7Categoria2
+"category",2
+
+"id", 17
+"name", Galleta mantequilla de mani (19g de proteina) 64g
+"brand",JUSTINES
+"price", 3400
+"description", Galleta de mantequilla de maní cetogenica, dulce y cremosa con chips de chocolate que le dan una textura crujiente
+"stock", 100
+"image", 017Producto8Categoria2
+"category",2
+
+"id", 18
+"name", Pan Molde sin gluten de Quinoa 600mg
+"brand", CELICIAS
+"price", 5690
+"description", Pan 100% libre de gluten. Con mezclas de harinas libres de gluten como arroz integral, almidón de mandioca, de papa o maíz. Libres de cualquier tipo de preservante, fungicida o aditivos, estos panes destacan entre otros por su crujiente corteza y esponjosa consistencia. A base de quinoa
+"stock", 100
+"image", 018Producto9Categoria2
+"category",2
+
+
+
+
+
+--------------------------------
+3 Alimentación fortificada
+
+"id", 19
+"name", Coco flakes 160gr
+"brand", BROTA
+"price", 2600
+"description", Originario de India – Indonesia , el coco se propagó por todas las regiones tropicales del mundo , aportando a las dietas de un sinnúmero de culturas. El formato laminado mantiene todos los beneficios del fruto al conservar su preciado aceite.
+"stock", 100
+"image", 019Producto1Categoria3
+"category",3
+
+"id", 20
+"name", Cúrcuma 230gr Polvo
+"brand", BROTA
+"price", 14690
+"description", Mejora  nuestra digestión promoviendo un consumo más adecuado de los alimentos al estimular la producción de ácido gástrico. Puede ayudar a reducir además la inflamación intestinal.permeabilidad.
+"stock", 100
+"image", 020Producto2Categoria3
+"category",3
+
+"id", 21
+"name", Amalaki 200gr Polvo Orgánico Sin gluten
+"brand", KONUN
+"price", 22990
+"description", El Amla o Amalaki es también conocida como grosella espinosa india es fruto muy famoso en la medicina ayurveda y ha sido utilizado desde tiempos inmemoriales ya que contiene una alta concentración de macronutrientes y micronutrientes, tiene un tamaño de una ciruela y posee un color amarillo verdoso
+"stock", 100
+"image", 021Producto3Categoria3
+"category",3
+
+"id", 22
+"name", Maqui berry 60gr Polvo
+"brand", NATIV FOR LIVE
+"price", 9490
+"description", Maquiberry es un potente antioxidante, en el cual destaca la delfinidina: molécula activa que ayuda al control del azúcar en la sangre
+"stock", 100
+"image", 022Producto4Categoria3
+"category",3
+
+"id", 23
+"name", Dientes de ajo negro chilote 90g
+"brand", KIME NEWEN
+"price", 10500
+"description", Ajo negro chilote en formato diente, elaborado bajo un proceso natural sin químicos. Este producto tiene múltiples beneficios para la salud, tanto para el sistema inmunológico como para el cardiovascular, entre otros.
+"stock", 100
+"image", 023Producto5Categoria3
+"category",3
+
+"id", 24
+"name", Ensalada de algas chilenas 16g
+"brand", SEAWEED PLACE
+"price", 3500
+"description", Bolsa con 2 sobres de 8 grs c/u, incrementan su peso-volumen entre 10 a 11 veces al hidratar. Algas finamente seleccionadas de acuerdo a su estado de madurez y procesadas al estilo japonés. Chondracanthus chamissoi (Chicorea de mar), Callophyllis variegata (Carola), Macrocystis pyrifera (Huiro flotador)
+"stock", 100
+"image", 024Producto6Categoria3
+"category",3
+
+"id", 25
+"name", Pasta andina spaguetti de arroz y quinoa 227g
+"brand", AMERICA ORGANICA
+"price", 4500
+"description", Pasta tipo Spaguetti sin gluten y orgánica a base de arroz y quinOA fuente de proteína vegetal y fibra. Para preparar un almuerzo o cena lleno de nutrientes.
+"stock", 100
+"image", 025Producto7Categoria3
+"category",3
+
+"id", 26
+"name", Granola proteica 400gr
+"brand", GRANOLIN
+"price",  5650
+"description", Crujiente y exquisita Granola, elaborada con una mezcla perfecta de ingredientes ancestrales y funcionales, perfecta para tu desayuno/once-merienda.
+"stock", 100
+"image", 026Producto8Categoria3
+"category",3
+
+"id", 27
+"name", Miel Multifloral Nativa 550 grs
+"brand", MUNDO MIEL
+"price",  6990
+"description", Nutrirás tu cuerpo con un Superalimento, lleno de vitaminas, minerales, antioxidantes y aminoácidos esenciales, que te entregan energía y mejoran tu salud.
+"stock", 100
+"image", 027Producto9Categoria3
+"category",3
+
+
+
+----------------------------------
+4 Nutrición Adulto
+
+"id", 28
+"name", Ensure Advance 850grs
+"brand", ABBOTT
+"price", 19050
+"description", Fórmula completa y balanceada con proteínas de alto valor biologico, prebiotico FOS e Inulina, alto en grasas monoinsaturadas y poliinsaturadas, sin lactosa, sin gluten.
+"stock", 100
+"image", 028Producto1Categoria4
+"category",4
+
+"id", 29
+"name",  Glucerna Triple Care 850grs
+"brand", ABBOTT
+"price", 18300
+"description", Formula nutricional completa y balanceada, contiene carbohidratos de digestion lenta y bajo indice glicemico, prebiotico FOS, MUFA y Omega 3, alto en calcio. Sin lactosa, sin gluten.
+"stock", 100
+"image", 029Producto2Categoria4
+"category",4
+
+"id", 30
+"name", Boost Neutro sin lactosa 740 grs
+"brand", NESTLE
+"price", 18500
+"description", Es un alimento completo y puede ser utilizado como complemento de la alimentación diaria. Además de versátil ya que puede ser utilizado para realizar recetas dulces y saladas, incluyéndolo en tus sopas, guisos y postres, según sea tu preferencia. Puede ser preparado con agua o leche. 
+"stock", 100
+"image", 030Producto3Categoria4
+"category",4
+
+"id", 31
+"name", Ensure Compact 125ml
+"brand", ABBOTT
+"price", 2300
+"description", Producto nutricional que provee una nutrición completa y balanceada que se puede usar como complemento o sustituto de parte del régimen alimentario, para adultos con mal nutrición. Fórmula estéril.
+"stock", 100
+"image", 031Producto4Categoria4
+"category",4
+
+"id", 32
+"name", Ensure Advance RPB
+"brand", ABBOTT
+"price", 2250
+"description", Fórmula nutricional completa y balanceada, contiene proteinas, Vitamina D y CaHMB, Prebioticos (FOS), sin lactosa, sin gluten.
+"stock", 100
+"image", 032Producto5Categoria4
+"category",4
+
+"id", 33
+"name", Enterex Diabetic polvo 400gr
+"brand", ENTEREX
+"price", 12000
+"description", Nutrición completa y balanceada para personas con diabetes o restricciones de azúcar.
+"stock", 100
+"image", 033Producto6Categoria4
+"category",4
+
+"id", 34
+"name", Enterex Hepatic 110grs
+"brand", ENTEREX
+"price", 12300
+"description", Suplemento de aminoácidos y calorías para el manejo nutricional de personas con enfermedades hepáticas.
+"stock", 100
+"image", 034Producto7Categoria4
+"category",4
+
+"id", 35
+"name", FontActic Complete 
+"brand", FRESENIUS KABI
+"price", 14500
+"description", Alimento dietético para usos médicos especiales. Alimento completo con una
+formulación de nutrientes especifica adaptada para determinadas enfermedades, trastornos o situaciones fisiológicas.
+"stock", 100
+"image", 035Producto8Categoria4
+"category",4
+
+"id", 36
+"name", Cn Renal 400 grs
+"brand", CN
+"price", 11000
+"description", Suplemento nutricional completo y balanceado para personas con insuficiencia renal aguda o crónica que estén bajo tratamiento de diálisis. Con una alta concentración de energía en poco volumen de líquido (2 kcal/ml), normo-proteico y con un diseño de micronutrientes acorde a la patología.
+"stock", 100
+"image", 036Producto9Categoria4
+"category",4
+
+
+-------------------------------
+5 Nutrición Infantil
+
+"id", 37
+"name", Pediasure
+"brand", ABBOTT
+"price", 17950
+"description", Nutrición completa y balanceada. Para niños entre 1 y 13 años de edad que no se alimentan adecuadamente. Como complemento o alimentación total, vía oral o por sonda (niños malcomedores, anorexia infantil, convalecencia, estados post diarreicos, pre y post operatorios, etc).
+"stock", 100
+"image", 037Producto1Categoria5
+"category",5
+
+"id", 38
+"name", NAN 1 L Confort 900grs
+"brand", NESTLE
+"price", 16500
+"description", Fórmula nutricional infantil que contiene Probióticos Lreuteri, LC-PUFAs (DHA-ARA),sin sacarosa. Fórmula láctea para lactantes sanos desde el nacimiento.
+"stock", 100
+"image", 038Producto2Categoria5
+"category",5
+
+"id", 39
+"name", Neocate Junior 400 grs
+"brand", NUTRICIA
+"price", 65300
+"description", Dieta elemental nutricionalmente completa, hipoalergénica, a base de aminoácidos libres de síntesis, de alto valor biológico.
+"stock", 100
+"image", 039Producto3Categoria5
+"category",5
+
+"id", 40
+"name", Nidal Continuación 800grs
+"brand", NESTLE
+"price", 9500
+"description", Fórmula nutricional infantil con perfil de proteínas adecuado, Omega 3 y 6, Hierro. Fórmula láctea para lactantes sanos a partir de los 6 meses.
+"stock", 100
+"image", 040Producto4Categoria5
+"category",5
+
+"id", 41
+"name",  S-26 Gold 900grs
+"brand", ASPEN
+"price", 24000
+"description", Fórmula nutricional infantil que contiene Alfa-lactoalbúmina, Sn-2 Palmitato y Lactosa, Nucleótidos, ARA & DHA, Colina, L-Carnitina, Taurina y Luteína. Fórmula láctea de inicio para lactantes de 0 a 6 meses
+"stock", 100
+"image", 041Producto5Categoria5
+"category",5
+
+"id", 42
+"name", Similac 1 800grs
+"brand", ABBOTT
+"price", 18500
+"description", Formula de inicio para lactantes nacidos de término cuyas madres tienen dificultades para amamantar o necesitan suplemento en el periodo de recién nacido hasta los 6 meses.
+"stock", 100
+"image", 042Producto6Categoria5
+"category",5
+
+"id", 43
+"name", Similac 2 800grs
+"brand", ABBOTT
+"price", 15200
+"description", Fórmula nutricional infantil , contiene DHA, AA,omega 3 y 6, prebiótico, próbiotico y  lactosa. Formula de continuacion de lactantes de 6 a 12 meses.
+"stock", 100
+"image", 043Producto7Categoria5
+"category",5
+
+"id", 44
+"name", Similac 3 800grs
+"brand", ABBOTT
+"price", 13550
+"description", Fórmula nutricional infantil , contiene DHA, AA,omega 3 y 6 , prebiotico, probiotico y lactosa. Formula de seguimiento para niños de 12 a 36 meses.
+"stock", 100
+"image", 044Producto8Categoria5
+"category",5
+
+"id", 45
+"name", Nido 5+ 1600grs
+"brand",  NESTLE
+"price", 14000
+"description", NIDO 5+ Leche Semidescremada especialmente desarrollada para niños mayores de 5 años, contiene: Probioticos Probióticos Lrhamnosus ®. Los probióticos son bacterias vivas que pueden ayudar a reforzar las defensas de tu hijo y mantener una buena salud digestiva.
+"stock", 100
+"image", 045Producto9Categoria5
+"category",5
+
+
+
+-------------------------------------------------
+
+6 Proteinas
+
+"id", 46
+"name", Gold Standard 100% Whey Protein (5 Lb)
+"brand", OPTIMUM NUTRITION
+"price", 79990
+"description", Ayuda a mejorar la recuperación muscular. Contribuye al aumento de masa muscular. Útil para complementar dietas hipocalóricas. 24g de proteína por porción
+"stock", 100
+"image", 046Producto1Categoria6
+"category", 6
+
+"id", 47
+"name", Carnebolic Proteína carne (1,85 Lb)
+"brand", ULTIMATE NUTRITION
+"price", 44990
+"description", Proteína de Carne apta para personas que no pueden consumir lácteos. Favorece el desarrollo muscular, mejora el rendimiento físico. Contribuye a disminuir la fatiga muscular. No contiene grasa, carbohidratos ni azúcares.
+"stock", 100
+"image", 047Producto2Categoria6
+"category", 6
+
+"id", 48
+"name", Iso Rriple Zero 2LB
+"brand", INTEGRALMEDICA
+"price", 48990
+"description", Iso Triple Zero de Integralmedica, es un producto a base de proteína de suero de leche aislada, aporta 25 g de proteína por porción. Iso Triple Zero es libre de grasas totales, además aporta de forma natural aminoácidos esenciales y no esenciales. ¡Disfruta de su delicioso sabor a chocolate.
+"stock", 100
+"image", 048Producto3Categoria6
+"category", 6
+
+"id", 49
+"name", Veggipro One Proteína vegana 600 grs
+"brand", AQUA SOLAR
+"price", 31990
+"description", Batido proteico apto para veganos. Sabor neutro, ideal para adicionar a cualquier tipo de alimento dulce o salado. Elaborada en base a proteína de Cáñamo y Arroz. Producto natural, libre de químicos y saborizantes artificiales.
+"stock", 100
+"image", 049Producto4Categoria6
+"category", 6
+
+"id", 50
+"name", Organic Protein Proteína vegana 1,5 Lb
+"brand", PURELY INSPIRED
+"price", 38990
+"description", 20 gramos de proteína por porción proveniente de frutas y vegetales. Sólo 2g de azúcar por porción. Ideal para cualquier persona que desee complementar su alimentación diaria. Apto para veganos.
+"stock", 100
+"image", 050Producto5Categoria6
+"category", 6
+
+"id", 51
+"name", Vegan Matrix Proteína vegana 5 Lb
+"brand", SPORTLAB
+"price", 65990
+"description", Contribuye al crecimiento de la masa muscular y al mantenimiento. Elaborada en base a proteína de arveja y contiene 20gr de proteína por porción.
+"stock", 100
+"image", 051Producto6Categoria6
+"category", 6
+
+"id", 52
+"name", Wild Protein barra proteica Chocolate Maní 45 gr
+"brand", WILD
+"price", 1690
+"description", Ayuda a complementar tu alimentación de la forma más saludable. Menos contenido de grasa, azúcares y carbohidratos en comparación a otros snacks.
+"stock", 100
+"image", 052Producto7Categoria6
+"category", 6
+
+"id", 53
+"name", High Protein Bar Barra proteica 20 grs
+"brand", THINK THIN
+"price", 3190
+"description", Snack de proteina ideal para consumir en cualquier momento del dia, 20gr de proteina por barra.
+"stock", 100
+"image", 053Producto8Categoria6
+"category", 6
+
+"id", 54
+"name", Syntha 6 Bar Barra Proteica 57 grs
+"brand", BSN
+"price", 3790
+"description", Textura ligera y crujiente. Aporta 20g de proteína por porción y sólo 4g de azúcar. 240 calorías por barra.
+"stock", 100
+"image", 054Producto9Categoria6
+"category", 6
+
+
+----------------------
+
+7 Vitaminas y Minerales
+
+"id", 55
+"name", B-Complex 20 tabs
+"brand", GERMAN ENERGY
+"price", 4490
+"description", Contribuye a fortalecer el sistema inmune, Favorece la concentración y memoria, Contiene las 8 vitaminas del complejo B.
+"stock", 100
+"image", 055Producto1Categoria7
+"category", 7
+
+"id", 56
+"name", Vitamina B12 12 MGC 60 caps
+"brand", SUNVIT LIFE
+"price", 10990
+"description", Ayuda a producir energía y disminuir los efectos de la fatiga corporal.
+"stock", 100
+"image", 056Producto2Categoria7
+"category", 7
+
+"id", 57
+"name", Acido Fólico 400 mcg 250 tabs
+"brand", SOLGAR
+"price", 17990
+"description", Contribuye a prevenir la anemia. Ayuda a promover la salud del corazón. Posee certificación kosher. Apta para veganos.
+"stock", 100
+"image", 057Producto3Categoria7
+"category", 7
+
+"id", 58
+"name", Korean Ginseng 30 caps
+"brand", KRG
+"price", 26990
+"description", Eleva la energía física y mental, reduce la fatiga y el estrés. Mejora la memoria y funciones mentales. Estimula la inmunidad. Mejora la función sexual.
+"stock", 100
+"image", 058Producto4Categoria7
+"category", 7
+
+"id", 59
+"name", Pro Multivit Multivitamínico 120 tabs
+"brand", SPORTLAB
+"price", 27990
+"description", Fórmula diseñada para personas activas Multivitamínico potenciado con chisandra, te verde y ginseng Complementa el déficit de nutrientes de la dieta Promueve el bienestar físico y mental. Perfecto complemento para todos los deportes.
+"stock", 100
+"image", 059Producto5Categoria7
+"category", 7
+
+"id", 60
+"name", Pharmaton Hombre 30 comp
+"brand", SANOFI
+"price", 13990
+"description", Complemento vitamínico especialmente formulado para mantener las necesidades nutricionales específicas de los hombres. Energía diaria: La biotina y la tiamina contribuyen al metabolismo energético normal. La niacina, el ácido fólico y la vitamina B12 ayudan a reducir el cansancio y la fatiga.
+"stock", 100
+"image", 060Producto6Categoria7
+"category", 7
+
+"id", 61
+"name", Pharmaton Mujer 30 comp
+"brand", SANOFI
+"price", 13990
+"description", 
+"stock", Está especialmente formulado para mantener las necesidades nutricionales específicas de las mujeres: - Energía diaria: la biotina y la tiamina contribuyen al metabolismo energético normal. La niacina,el ácido fólico y la vitamina B12 ayudan a reducir el cansancio y la fatiga.
+"image", 061Producto7Categoria7
+"category", 7
+
+"id", 62
+"name", Shotvit Silver Multivitamínico 60 tabs
+"brand", FARMADEL
+"price", 13990
+"description", Especial para Adultos + 50 años. Fácil administración y óptima absorción. Producto fabricado bajo estándar farmacéutico, con certificación GMP.
+"stock", 100
+"image", 062Producto8Categoria7
+"category", 7
+
+"id", 63
+"name", Infortin Kid Kal 32 tabs
+"brand", PRATER
+"price", 7990
+"description", Beneficioso para el tratamiento de las deficiencias de calcio en niños y adolescentes en etapa de crecimiento, convalecencia, y fracturas óseas.
+"stock", 100
+"image", 063Producto9Categoria7
+"category", 7
+
